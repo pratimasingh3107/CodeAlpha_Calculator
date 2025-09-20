@@ -15,4 +15,4 @@ JavaScript
 
 📂 How to Run Locally
 Clone the repository
-git clone https://github.com/pratimasingh3107/Calculator
+git clone https://github.com/pratimasingh3107/CodeAlpha_Calculator
